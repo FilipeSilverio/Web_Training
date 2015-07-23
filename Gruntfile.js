@@ -77,4 +77,4 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['concat', 'uglify', 'cssmin', 'responsive_images']);
 
 };
-3
+2
